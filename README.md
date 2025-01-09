@@ -1,7 +1,7 @@
 # :bar_chart::chart_with_upwards_trend:DataLens-dashboards
 Дашборды построенные в Yandex DataLens
 ## :drop_of_blood::drop_of_blood:DonorSearch Dashboard Я.Метрика для Яндекс Мастерской.
- ссылка на дашборд: :arrow_right:  <https://datalens.yandex/4mhyrteandumr?state=ec3504ed117>
+ ## ссылка на дашборд: :arrow_right:  <https://datalens.yandex/4mhyrteandumr?state=ec3504ed117>
  ### Гипотеза расхода трафика и анализ источников :arrow_heading_down:
  #### Предположение, что определённые факторы влияют на активность пользователей и их регистрацию на сайте DonorSearch. Для проверки этой гипотезы использованы данные Яндекс Метрики, в частности — информацию из Logs API.
  ### Цель исследования:
