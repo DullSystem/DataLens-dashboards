@@ -1,6 +1,11 @@
 ## :drop_of_blood::drop_of_blood:DonorSearch Dashboard Я.Метрика.
  ## ссылка на дашборд: :arrow_right:  <a href="https://datalens.yandex/4mhyrteandumr?state=ec3504ed117">DonorSearch Dashboard</a>
- ### Гипотеза расхода трафика и анализ источников :arrow_heading_down:
+ 
+ <div style="display: inline-block; overflow: hidden;">
+  <img src="image/Krasnoperov_masterskay.png" alt="Яндекс мастерская" style="transition: transform 0.1s ease; width: 400px;">
+</div>
+
+ ## Гипотеза расхода трафика и анализ источников :arrow_heading_down:
  #### Предположение, что определённые факторы влияют на активность пользователей и их регистрацию на сайте DonorSearch. Для проверки этой гипотезы использованы данные Яндекс Метрики, в частности — информацию из Logs API.
  ### Цель исследования:
 - изучить поведение пользователей в зависимости от времени суток, дней недели и сезонов;
