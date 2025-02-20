@@ -2,7 +2,7 @@
  ## ссылка на дашборд: :arrow_right:  <a href="https://datalens.yandex/4mhyrteandumr?state=ec3504ed117">DonorSearch Dashboard</a>
  
  <div style="display: inline-block; overflow: hidden;">
-  <img src="image/Krasnoperov_masterskay.png" alt="Яндекс мастерская" style="transition: transform 0.1s ease; width: 400px;">
+  <img src="image/DonorSearch.png" alt="Яндекс мастерская" style="transition: transform 0.1s ease; width: 300px;">
 </div>
 
  ## Гипотеза расхода трафика и анализ источников :arrow_heading_down:
